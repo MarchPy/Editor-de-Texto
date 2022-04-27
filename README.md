@@ -9,9 +9,9 @@ ________________________________________________________________________________
 ## _Informações_
 ______________________________________________________________________________________________________________________________
 
-Função | Última atualização | Descrição
+Descrição | Última atualização | Função
 --- | --- | --- 
-Escreva e salve arquivos usando um simples e leve programa que pode ser armazenado em um pendrive. |  27/04/2022 | Simples editor de texto portátil
+Simples editor de texto portátil |  27/04/2022 | Escreva e salve arquivos usando um simples e leve programa que pode ser armazenado em um pendrive.
 
 
 
