@@ -14,7 +14,7 @@ Editor de texto portátil |  27/04/2022 | Escreva e salve arquivos usando um sim
  
 # _Como usar:_
 
-* No linux
+* No Linux
 ####
     $ python3.10 text_edit.py
 * No Windows
