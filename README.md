@@ -1,4 +1,5 @@
-# Editor de Texto <a href="https://www.python.org/downloads/release/python-3102/"><img title="Version" src="https://img.shields.io/badge/Python-3.10.4-blue.svg?style=flat-square"></a> <a href="https://docs.python.org/3/library/tkinter.html"><img title="Version" src="https://img.shields.io/badge/Library-Tkinter-blue.svg?style=flat-square"></a> 
+# Editor de Texto
+<a href="https://www.python.org/downloads/release/python-3102/"><img title="Version" src="https://img.shields.io/badge/Python-3.10.4-yellow.svg?style=flat-square"></a> <a href="https://docs.python.org/3/library/tkinter.html"><img title="Version" src="https://img.shields.io/badge/Library-Tkinter-blue.svg?style=flat-square"></a> 
 
 Um editor de texto portátil e simples. Abra, escreva e salve em qualquer lugar. 
 
